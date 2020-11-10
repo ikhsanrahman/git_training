@@ -2,4 +2,7 @@ import random
 
 data = random.randrange(30,100)
 
-print(data)
+if data == 45:
+    print("success")
+
+#print(data)
